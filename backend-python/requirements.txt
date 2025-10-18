@@ -1,9 +1,0 @@
-flask
-pandas
-scikit-learn
-mysql-connector-python
-google-cloud-build
-requests
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
